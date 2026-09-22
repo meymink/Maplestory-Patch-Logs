@@ -1,0 +1,68 @@
+{
+  "__url__": "URL",
+  "__date__": "DATE",
+  "__title__": "TITLE",
+  "New Content": [
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM"
+  ],
+  "CATEGORY2": [
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM"
+  ],
+  "CATEGORY3": [
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM"
+  ],
+  "CATEGORY4": [
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM"
+  ],
+  "CATEGORY5": [
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM"
+  ],
+
+  "Cash Shop Updates": [
+    "Cash Shop"
+  ],
+  "Bug Fixes and Known Issues": [
+    "Bug Fixes",
+    "Known Issues"
+  ]   
+}

@@ -1,0 +1,2 @@
+# Put patch URLs here, 1 per line
+https://www.nexon.com/maplestory/news/update/28137/v-261-maple-story-x-dave-the-diver-patch-notes

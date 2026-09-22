@@ -1,0 +1,52 @@
+{
+  "__url__": "https://www.nexon.com/maplestory/news/update/29874/updated-8-27-v-262-midnight-carnival-mu-lung-patch-notes",
+  "__date__": "Aug 26, 2025",
+  "__title__": "Midnight Carnival: Mu Lung",
+  "New Updates": [
+    "Legion Champion",
+    "Champion Raid: Draco Isle",
+    {
+      "NA Interactive World Merge": [
+        "World Merge Event"
+      ]
+    },
+    "Cross World Auction House Changes"
+  ],
+  "Night Troupe Events": [
+    "Mu Lung Garden",
+    "Festival Decorating and Designer Rank",
+    "Night Troupe Sage Tickets",
+    "Lantern Bright with Wishes",
+    "Mysterious Decoction",
+    "Do Gong’s Mystic Bond",
+    "Moonlit Mu Lung Dojo",
+    "Herb Town Boat Bash",
+    "No Gong’s Acuity Training",
+    "Mysterious Fortune Sticks"
+  ],
+  "Champion Burning Events": [
+    "Champion Double Up",
+    "Champion Double Up Coin Shop"
+  ],
+  "DAVE THE DIVER Events": [
+    "Save the Diver!",
+    "Blue Hole Exploration",
+    "Bancho Sushi",
+    "Token Shop"
+  ],
+  "Burning Events": [
+    "Item Burning",
+    "Challenger World"
+  ],
+  "Other Events": [
+    "Tinkerer's Chest (Interactive and Challenger-Interactive Worlds)",
+    "Hyperion World Leap",
+    "Sunny Sunday"
+  ],
+  "Bug Fixes": [
+    "Job Bug Fixes",
+    "UI Bug Fixes",
+    "Item Bug Fixes",
+    "Map/Quest/Mob Bug Fixes"
+  ]
+}

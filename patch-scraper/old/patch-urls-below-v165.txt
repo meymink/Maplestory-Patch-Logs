@@ -1,0 +1,15 @@
+# Put patch URLs here, 1 per line
+https://www.nexon.com/maplestory/news/update/13486/v-146-return-to-masteria-patch-notes
+https://www.nexon.com/maplestory/news/update/13489/v-148-grand-athenaeum-patch-notes
+https://www.nexon.com/maplestory/news/update/13492/v-149-legacy-of-nine-patch-notes
+https://www.nexon.com/maplestory/news/update/13495/v-150-rising-heroes-elite-patch-notes
+https://www.nexon.com/maplestory/news/update/13498/v-151-rising-heroes-echoes-of-darkness-patch-notes
+https://www.nexon.com/maplestory/news/update/13501/v-151-rising-heroes-tower-of-oz-patch-notes
+https://www.nexon.com/maplestory/news/update/13504/v-152-mark-of-honor-hieizan-temple-patch-notes
+https://www.nexon.com/maplestory/news/update/13507/v-156-cygnus-awakening-night-walker-patch-notes
+https://www.nexon.com/maplestory/news/update/13510/v-157-shining-star-part-i-patch-notes
+https://www.nexon.com/maplestory/news/update/13513/v-158-shining-star-part-ii-patch-notes
+https://www.nexon.com/maplestory/news/update/13518/v-160-black-heaven-first-chapter-patch-notes
+https://www.nexon.com/maplestory/news/update/13545/v-161-black-heaven-final-chapter-patch-notes
+https://www.nexon.com/maplestory/news/update/13590/v-162-spring-into-summer-patch-notes
+https://www.nexon.com/maplestory/news/update/13627/v-163-firepower-patch-notes

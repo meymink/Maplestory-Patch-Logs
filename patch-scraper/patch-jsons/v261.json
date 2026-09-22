@@ -1,0 +1,61 @@
+{
+  "__url__": "https://www.nexon.com/maplestory/news/update/28137/updated-8-26-v-261-maple-story-x-dave-the-diver-patch-notes",
+  "__date__": "Jul 15, 2025",
+  "__title__": "MapleStory x DAVE THE DIVER",
+  "New Updates": [
+    "New Mastery Nodes",
+    "Skill Improvements and Changes",
+    "Sol Erda Conversion Update"
+  ],
+  "DAVE THE DIVER Events": [
+    "Save the Diver!",
+    "Blue Hole Exploration",
+    "Blue Hole Codex",
+    "Bancho Sushi",
+    "Token Shop"
+  ],
+  "Ride or Die Events": [
+    {
+      "Ride or Die": [
+        "Boss Difficulty and Challenges",
+        "Althea's Support",
+        "Kazax's Interference",
+        "Weekly Total Score Rewards",
+        "Participation Rewards"
+      ]
+    },
+    "Coin Shop"
+  ],
+  "Morning Star Banquet Events": [
+    "Morning Star Banquet",
+    "Morning Star Fountain",
+    "Breumi’s Exciting Clean Up and Breumi's Clean Up Finale",
+    "Morning Starlight Harvest",
+    "Memento Coin Exchange",
+    "Victory Badge Exchange",
+    "Meso Shop",
+    "Story of Servants",
+    "Banquet’s Blessing"
+  ],
+  "Burning Events": [
+    "Burning Express",
+    "Hyper Burning MAX",
+    "Tera Blink",
+    "Item Burning",
+    {
+      "Challenger World": [
+        "2x Event"
+      ]
+    }
+  ],
+  "Other Events": [
+    "Tinkerer's Chest (Interactive and Challenger-Interactive Worlds)",
+    "[Victoria Cup] The Legends Return! Ranking Reward",
+    "Extended Ursus Golden Time (EU Challenger-World)",
+    "Wish Upon a Shooting Star",
+    "Hyperion World Leap",
+    "Summer's Guide",
+    "Luxe Sauna",
+    "Sunny Sunday"
+  ]
+}

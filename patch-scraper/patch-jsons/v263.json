@@ -1,0 +1,80 @@
+{
+  "__url__": "https://www.nexon.com/maplestory/news/update/31006/updated-9-23-v-263-carcion-octo-fest-patch-notes",
+  "__date__": "Sep 23, 2025",
+  "__title__": "Carcion Octo Fest",
+  "New Content": [
+    "New Boss: Baldrix",
+    "Charge! Apostle’s Arena",
+    "Destiny Weapon"
+  ],
+  "New Updates": [
+    "HEXA Stat Node III",
+    "Maple Value Points (MVP) Revamp",
+    {
+      "Skill Revamp": [
+        "Common Skills",
+        "Job Skills"
+      ]
+    },
+    {
+      "UI Improvements and Changes": [
+        "Login Process UI Revamp",
+        "Main In-Game UI",
+        "Equipment Inventory UI",
+        "Decoration Inventory UI",
+        "Inventory UI",
+        "Enhancement UI Revamp",
+        "Quick Move & Dimensional Mirror UI",
+        "Tooltip UI Revamp",
+        "Custom Key Bindings UI",
+        "Notification System UI",
+        "Cash Shop UI Revamp",
+        "Common UI Improvements",
+        "UI Bug Fixes"
+      ]
+    },
+    {
+      "Quest/Story Improvements and Changes": [
+        "Grand Athenaeum Story Addition",
+        "Quest Improvements",
+        "Quest Bug Fixes"
+      ]
+    },
+    {
+      "Boss/Mob Improvements and Changes": [
+        "Boss Reward Improvements",
+        "Boss Patterns Improvements"
+      ]
+    },
+    {
+      "Map/NPC Improvements and Changes": [
+        "Grandis World Map"
+      ]
+    },
+    "Item Improvements and Changes",
+    "Auction House Improvements and Changes",
+    "Inactive Character Clean-Up Process"
+  ],
+  "Strange Tides Events": [
+    "Strange Tides",
+    "Carcion Octo Fest",
+    "Great Octopus Buffet",
+    "Raise a Golden Octopus",
+    "Coral Coin Shop",
+    "Meso Shop"
+  ],
+  "Champion Burning Events": [
+    "Champion Double Up",
+    "Champion Double Up Coin Shop",
+    "Champion Challenge",
+    "Champion Challenge Coin Shop"
+  ],
+  "Other Events": [
+    "Cash Shop Transfer",
+    "Challenger World End of Leap",
+    "Luxe Sauna",
+    "Haunted Mansion",
+    "Winter Countdown",
+    "Sunny Sunday"
+  ]
+}
