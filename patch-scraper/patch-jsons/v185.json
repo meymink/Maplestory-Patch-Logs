@@ -1,0 +1,33 @@
+{
+  "__url__": "https://www.nexon.com/maplestory/news/update/4263/updated-v-185-maple-story-x-re-zero-patch-notes",
+  "__date__": "May 10, 2017",
+  "__title__": "MapleStory X Re:ZERO",
+  "Re:ZERO Events": [
+    "Re:ZERO Attendance Check Event",
+    "Re:ZERO Reboot World Event"
+  ],
+  "Additional Updates": [
+    "Meso Market",
+    "Bug Fixes"
+  ],
+  "New Events": [
+    "New & Returning Players Event",
+    "Discount Coupon Giveaway",
+    "Hot Week",
+    "Mechanical Hearts",
+    "Dragon Boat Festival",
+    "Mini-Game Station",
+    "Jewel Crafting",
+    "Spell Trace Fever Time",
+    "Hunting Boost Haste Event",
+    "Beast Tamer Character Creation",
+    "2x EXP & Drop Weekends"
+  ],
+  "Override Pre-Events": [
+    "Override Registration Event",
+    "Journey to Override Event",
+    "Override Mega Burning Project",
+    "Override Attendance Check",
+    "Override Hot Week"
+  ]
+}

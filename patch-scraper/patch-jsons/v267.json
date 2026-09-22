@@ -1,0 +1,71 @@
+{
+  "__url__": "https://www.nexon.com/maplestory/news/update/36809/v-267-maple-story-x-one-punch-man-patch-notes",
+  "__date__": "Mar 17, 2026",
+  "__title__": "MapleStory x One-Punch Man",
+  "New Updates": [
+    "Epic Dungeon: Nightmare Paradise",
+    "World Archive",
+    "Monster Collection Expansion",
+    "Fog Forest Training Grounds Changes",
+    "Potential Stamp Removal",
+    "Auction House Changes and Bug Fixes",
+    {
+      "Skill Changes and Bug Fixes": [
+        "Job Skills",
+        "General Skills"
+      ]
+    },
+    {
+      "UI Changes and Bug Fixes": [
+        "Enhance UI",
+        "Friend and Party UI",
+        "Event List UI",
+        "Event In-Game Guide",
+        "General UI"
+      ]
+    },
+    {
+      "Quest/Story Changes and Bug Fixes": [
+        "Resistance Quests",
+        "Sia Astelle Quests",
+        "General Quest/Story"
+      ]
+    },
+    "Boss/Mob Changes and Bug Fixes",
+    "Map/NPC Changes and Bug Fixes",
+    "Item Changes and Bug Fixes"
+  ],
+  "Wild Hunter Revamp": [
+    "Wild Hunter",
+    "[Redux Event] Savage",
+    "Wild Hunter Redux Celebratory Gift"
+  ],
+  "One-Punch Man Events": [
+    "Limited-Time Job: Play as Saitama",
+    "Hero's Adventure Journal",
+    "Monster Park Mayhem!",
+    "Virtual Combat System",
+    "Centichoro Punch King",
+    "Heroes Appear",
+    "Hero Coin Shop",
+    "Centichoro Punch King Coin Shop",
+    "Meso Shop",
+    "Slime Meso Shop"
+  ],
+  "Burning Events": [
+    "Item Burning",
+    "Tera Blink"
+  ],
+  "Challenger World Events": [
+    "Challenger World",
+    "Challenger World Leap",
+    "Challenger World Shop"
+  ],
+  "Other Events": [
+    "Goddess’s Blessing Pass",
+    "Genesis Pass",
+    "Frontier Pass",
+    "Luxe Sauna",
+    "Sunny Sunday"
+  ]
+}
